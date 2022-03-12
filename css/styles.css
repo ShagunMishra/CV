@@ -104,13 +104,15 @@ a {
 .top-cloud {
   position: absolute;
   right:300px;
-  top:40px;
+  top: 150px;
+  width: 10%;
 }
 
 .bottom-cloud {
   position: absolute;
   left: 250px;
-  bottom: 300px;
+  bottom: 150px;
+  width: 10%;
 }
 
 .code-img {
