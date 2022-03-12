@@ -45,10 +45,25 @@ a {
   text-decoration: None;
 }
 
+/* top-container */
+
 .top-container {
-  background-color: #E4F9F5;
+  background-color: #151D3B;
   position: relative;
-  padding-top: 100px;
+  padding-top: 20px;
+}
+
+.quote {
+  position: absolute;
+  text-align: center;
+  margin-left: 10%;
+  font-family: 'Montserrat',serif;
+}
+
+.name {
+    position: relative;
+    text-align: center;
+    margin-top: 8%;
 }
 
 .middle-container {
